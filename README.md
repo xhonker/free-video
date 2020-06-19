@@ -5,7 +5,7 @@
 
 #### 如何使用
 
-1、[下载 Tampermonkey 插件](https://xhonker.github.io/free-video/assets/Tampermonkey_4.1.0.crx)
+1、[下载 Tampermonkey 插件](https://xhonker.github.io/free-video/assets/Tampermonkey_4.10.0.crx)
 
 2、[安装脚本](https://xhonker.github.io/free-video/index.user.js)
 
