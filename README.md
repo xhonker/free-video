@@ -1,4 +1,9 @@
-#### 怎么使用
+#### 使用环境
+
+- Chrome
+- Edge
+
+#### 如何使用
 
 1、[下载 Tampermonkey 插件](https://xhonker.github.io/free-video/assets/Tampermonkey_4.1.0.crx)
 
