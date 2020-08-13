@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         free-video
 // @namespace    https://github.com/xhonker/free-video
-// @version      0.2.1
+// @version      0.2.2
 // @description  free play all china video
 // @supportURL   https://github.com/xhonker/free-video/issues
 // @updateURL    https://xhonker.gihub.io/free-video/index.user.js
