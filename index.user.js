@@ -1,11 +1,11 @@
 // ==UserScript==
 // @name         free-video
 // @namespace    https://github.com/xhonker/free-video
-// @version      0.2.2
+// @version      0.2.3
 // @description  free play all china video
 // @supportURL   https://github.com/xhonker/free-video/issues
-// @updateURL    https://xhonker.gihub.io/free-video/index.user.js
-// @downloadURL  https://xhonker.gihub.io/free-video/index.user.js
+// @updateURL    https://greasyfork.org/scripts/408663-free-video/code/free-video.user.js
+// @downloadURL  https://greasyfork.org/scripts/408663-free-video/code/free-video.user.js
 // @author       Quicker
 // @include       *://v.qq.com/x/cover/*
 // @require      https://cdn.bootcdn.net/ajax/libs/jquery/1.7.1/jquery.min.js
