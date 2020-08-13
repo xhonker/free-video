@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         free-video
 // @namespace    https://github.com/xhonker/free-video
-// @version      0.1.1
+// @version      0.2.1
 // @description  free play all china video
 // @supportURL   https://github.com/xhonker/free-video/issues
 // @updateURL    https://xhonker.gihub.io/free-video/index.user.js
@@ -15,7 +15,7 @@
 
 (function () {
   'use strict';
-  let baseURL = 'https://jx.618g.com/?url=';
+  let baseURL = '//jx.idc126.net/jx/?url=';
 
   loadTencent();
 
